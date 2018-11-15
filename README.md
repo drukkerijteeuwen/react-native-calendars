@@ -12,20 +12,17 @@ The package is both **Android** and **iOS** compatible.
 You can run example module by performing these steps:
 
 ```
-$ git clone git@github.com:wix/react-native-calendars.git
+$ git clone git@github.com:drukkerijteeuwen/react-native-calendars-teeuwen.git
 $ cd react-native-calendars/example
 $ npm install
 $ react-native run-ios
 ```
 
-You can check example screens source code in [example module screens](https://github.com/wix-private/wix-react-native-calendar/tree/master/example/src/screens)
-
-This project is compatible with Expo/CRNA (without ejecting), and the examples have been [published on Expo](https://expo.io/@community/react-native-calendars-example)
 
 ## Installation
 
 ```
-$ npm install --save react-native-calendars
+$ npm install --save react-native-calendars-teeuwen
 ```
 
 The solution is implemented in JavaScript so no native module linking is required.
